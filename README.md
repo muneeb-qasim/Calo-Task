@@ -2,13 +2,15 @@
 
 ## Frontend Instruction
 
-npm install to setup the node modules
-npm start to start the React application
+The frontend code is in frontend folder, we need to first cd to that folder and then need to run below commands.\
+npm install to setup the node modules.\
+npm start to start the React application.\
 
 ## Backend Instruction
 
-npm install to setup the node modules
-npm start to start the node application
+The backend code is in backend folder, we need to first cd to that folder and then need to run below commands.\
+npm install to setup the node modules.\
+npm start to start the node application.\
 
 ## Section Time Spent
 
